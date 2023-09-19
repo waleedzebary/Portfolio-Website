@@ -2,10 +2,10 @@
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install`
 
 ### `npm install react-bootstrap bootstrap`
 
-### `npm start`
-
 ### `npm install react-bootstrap-icons --save`
+
+### `npm start`
