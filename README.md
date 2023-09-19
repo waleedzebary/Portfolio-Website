@@ -7,3 +7,5 @@ In the project directory, you can run:
 ### `npm install react-bootstrap bootstrap`
 
 ### `npm start`
+
+### `npm install react-bootstrap-icons --save`
