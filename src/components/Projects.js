@@ -51,11 +51,6 @@ export const Projects = () => {
                         <p>
                             Front-end projects are a great way for developers to showcase their skills and build a portfolio. 
                             These projects often involve creating the user interface, user experience, and the visual aspects of a website or web application.
-                            Personal Portfolio Website: Create a portfolio website to showcase your own work, skills, and resume. 
-                            This is a great way to demonstrate your abilities and create a professional online presence.
-                            E-commerce Website: Build a fully functional online store with features like product listings, shopping cart functionality, and a secure checkout process.
-                            Blog or News Website: Develop a platform for publishing articles, blog posts, or news stories. 
-                            Implement features like user authentication, comments, and social sharing.
                         </p>
                         <Tab.Container id="projects-tabs" defaultActiveKey="first">
                             <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
