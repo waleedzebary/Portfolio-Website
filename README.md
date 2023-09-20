@@ -8,4 +8,6 @@ In the project directory, you can run:
 
 ### `npm install react-bootstrap-icons --save`
 
+### `npm install react-multi-carousel`
+
 ### `npm start`
