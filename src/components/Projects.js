@@ -4,6 +4,7 @@ import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import { Col, Container, Row, Nav, Tab } from "react-bootstrap";
+import { ProjectCard } from "./ProjetcCard";
 
 export const Projects = () => {
     const projects = [
@@ -72,9 +73,9 @@ export const Projects = () => {
                                 <Tab.Pane eventKey="first">
                                     <Row>
                                         {
-                                            projects.map((projcet, index) => {
+                                            projects.map((project, index) => {
                                                 return(
-                                                    <p>{projects.title}</p>
+                                                    <ProjectCard key={index} {...project}/>
                                                 )
                                             })
                                         }
@@ -87,6 +88,7 @@ export const Projects = () => {
                     </Col>
                 </Row>
             </Container>
+            <img className="background-image-right" src={colorSharp2}/>
         </section>
     )
 }
