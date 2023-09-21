@@ -10,4 +10,6 @@ In the project directory, you can run:
 
 ### `npm install react-multi-carousel`
 
+### `npm install express cors nodemailer`
+
 ### `npm start`
