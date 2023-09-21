@@ -12,4 +12,6 @@ In the project directory, you can run:
 
 ### `npm install express cors nodemailer`
 
+### `npm install react-mailchimp-subscribe`
+
 ### `npm start`
