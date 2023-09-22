@@ -18,4 +18,8 @@ In the project directory, you can run:
 
 ### `npm i react-on-screen`
 
+### `npm install react-router-hash-link`
+
+### `npm install react-router-dom`
+
 ### `npm start`
