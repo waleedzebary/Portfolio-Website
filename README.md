@@ -16,4 +16,6 @@ In the project directory, you can run:
 
 ### `npm install animate.css --save`
 
+### `npm i react-on-screen`
+
 ### `npm start`
