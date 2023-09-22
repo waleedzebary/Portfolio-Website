@@ -14,4 +14,6 @@ In the project directory, you can run:
 
 ### `npm install react-mailchimp-subscribe`
 
+### `npm install animate.css --save`
+
 ### `npm start`
